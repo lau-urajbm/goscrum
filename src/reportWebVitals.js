@@ -11,3 +11,14 @@ const reportWebVitals = onPerfEntry => {
 };
 
 export default reportWebVitals;
+
+/* {"user":{
+  "userName": "values.userName",
+"password": "values.password",
+"email": "laura@gmail.com",
+"teamID":"f50a5a34-60b6-46b5-8e33-d5d626516103",
+    "role": "Team Member",
+          "continent": "America",
+          "region": "Latam"
+  
+}} */
